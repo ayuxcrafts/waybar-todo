@@ -9,7 +9,7 @@ Tasks are stored in a sqlite database with their unix timestamps, and `todo -t` 
 ## Installation
 
 ```console
-git clone https://github.com/ayuxsys/todo.git --depth=1
+git clone https://github.com/ayux-crafts/waybar-todo --depth=1
 cd todo
 go build -o .
 mv ./todo ~/go/bin
